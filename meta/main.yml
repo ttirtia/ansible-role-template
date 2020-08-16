@@ -1,0 +1,14 @@
+---
+galaxy_info:
+  author: ttirtia
+  description: Template role.
+  license: MIT
+  min_ansible_version: 2.9
+  platforms:
+    - name: Debian
+      versions:
+        - buster
+
+  galaxy_tags: []
+
+dependencies: []
